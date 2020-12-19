@@ -14,8 +14,8 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image: url(#);
+  padding: 90px 0 40px 0;
+  background-image: url(./images/title_370354_m_50.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -78,12 +78,14 @@ header {
 }
 
 .logo {
-  width: 124px;
+  width: 48px;
   margin-top: 20px;
 }
 
 .header-left {
   float: left;
+  color:white;
+　line-height: 65px;
 }
 
 .header-right {
@@ -104,8 +106,8 @@ header {
 }
 
 .lesson-wrapper {
-  height: 500px;
-  padding-bottom: 80px;
+  height: 300px;
+  padding: 30px 0 80px;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -131,7 +133,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 90px;
+  top: 70px;
   width: 100%;
   color: white;
 }
@@ -139,8 +141,7 @@ header {
 .txt-contents {
   width: 80%;
   display: inline-block;
-  margin-top: 20px;
-  font-size: 12px;
+  font-size: 16spx;
   color: #b3aeb5;
 }
 
@@ -171,11 +172,8 @@ footer img {
   width: 125px;
 }
 
-footer p {
+footer {
   color: #b3aeb5;
   font-size: 12px;
-}
-
-footer {
-  padding-top: 30px;
+  matgin-top: 10px;
 }
