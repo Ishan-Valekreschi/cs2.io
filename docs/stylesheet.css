@@ -104,6 +104,10 @@ header {
     color: white;
 }
 
+.header-logo a{
+ color:white;
+}
+
 .header-list li {
     float: left;
     padding: 15px 20px;
